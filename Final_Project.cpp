@@ -1,13 +1,13 @@
 /*
 SEN 909 - OO PROGRAMMING WITH C++
 
-Final Project - Part-2
+Final Project
 Assignment Group:  Tweeter
 
 Name		: DHARTI RATHOD
-Student ID	: 84213
 
-Web Page Link: http://dhartikrunal.wix.com/tweetanalyzer
+
+http://dhartikrunal.wix.com/whats-hot-on-twitter
 
 */
 
